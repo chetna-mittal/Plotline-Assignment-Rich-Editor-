@@ -1,0 +1,55 @@
+.sp-container {
+    position: relative;
+    width: 100%;
+}
+
+.sp-head {
+    position: relative;
+    left: 2.45%;
+    width: 22%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sp-img {    
+    width: 2.8rem;
+    height: 2.8rem;
+    background: #FFFFFF;
+    border-radius: 50%;
+}
+
+.sp-name {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #091E42;
+    opacity: 0.8;
+}
+
+.sp-time {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #091E42;
+    opacity: 0.6;
+}
+
+.sp-text-container {
+    position: relative;
+    left: 8.9%;
+    width: 90%;
+}
+
+.sp-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #091E42;
+    opacity: 0.6;
+}
